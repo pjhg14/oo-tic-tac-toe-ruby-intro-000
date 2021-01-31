@@ -114,5 +114,5 @@ class TicTacToe
       puts "Ummmm..."
     end
   end
-  
+
 end
