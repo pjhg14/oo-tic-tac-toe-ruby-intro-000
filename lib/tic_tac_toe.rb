@@ -97,7 +97,7 @@ class TicTacToe
     else
       nil
     end
-    
+
   end
 
   def play
