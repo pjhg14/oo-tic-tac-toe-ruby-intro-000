@@ -95,7 +95,7 @@ class TicTacToe
     win = won?
 
     if win
-      return board[win[0]]
+      return @board[win[0]]
     end
 
     nil
